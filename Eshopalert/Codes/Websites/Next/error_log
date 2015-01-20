@@ -1,0 +1,6 @@
+[24-Nov-2012 17:58:36] PHP Notice:  Undefined variable: extra_link in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 8
+[24-Nov-2012 17:58:36] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 7
+[24-Nov-2012 17:58:36] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 6
+[24-Nov-2012 17:58:38] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Next/Next.php on line 27
+[24-Nov-2012 17:58:38] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Next/Next.php on line 28
+[24-Nov-2012 17:58:38] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Next/Next.php on line 29

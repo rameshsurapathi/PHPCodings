@@ -1,0 +1,38 @@
+[24-Nov-2012 17:34:56] PHP Notice:  Undefined variable: extra_link in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 8
+[24-Nov-2012 17:34:56] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 7
+[24-Nov-2012 17:34:56] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 6
+[24-Nov-2012 17:34:57] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 26
+[24-Nov-2012 17:34:57] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 27
+[24-Nov-2012 17:34:57] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 28
+[24-Nov-2012 17:49:25] PHP Notice:  Undefined variable: extra_link in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 8
+[24-Nov-2012 17:49:25] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 7
+[24-Nov-2012 17:49:25] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 6
+[24-Nov-2012 17:49:27] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 26
+[24-Nov-2012 17:49:27] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 27
+[24-Nov-2012 17:49:27] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 28
+[24-Nov-2012 17:52:35] PHP Notice:  Undefined variable: extra_link in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 8
+[24-Nov-2012 17:52:35] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 7
+[24-Nov-2012 17:52:35] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 6
+[24-Nov-2012 17:52:35] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: No ending delimiter '+' found in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 20
+[24-Nov-2012 17:52:36] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 27
+[24-Nov-2012 17:52:36] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 28
+[24-Nov-2012 17:52:36] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 29
+[24-Nov-2012 17:53:00] PHP Notice:  Undefined variable: extra_link in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 8
+[24-Nov-2012 17:53:00] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 7
+[24-Nov-2012 17:53:00] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 6
+[24-Nov-2012 17:53:00] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: No ending delimiter '+' found in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 20
+[24-Nov-2012 17:53:02] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 27
+[24-Nov-2012 17:53:02] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 28
+[24-Nov-2012 17:53:02] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 29
+[24-Nov-2012 17:55:04] PHP Notice:  Undefined variable: extra_link in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 8
+[24-Nov-2012 17:55:04] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 7
+[24-Nov-2012 17:55:04] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 6
+[24-Nov-2012 17:55:04] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: No ending delimiter '+' found in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 20
+[24-Nov-2012 17:55:05] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 27
+[24-Nov-2012 17:55:05] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 28
+[24-Nov-2012 17:55:05] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 29
+[24-Nov-2012 17:57:18] PHP Notice:  Undefined variable: extra_link in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 8
+[24-Nov-2012 17:57:18] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 7
+[24-Nov-2012 17:57:18] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 6
+[24-Nov-2012 17:57:21] PHP Notice:  Undefined variable: productid in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 58
+[24-Nov-2012 17:57:21] PHP Notice:  Undefined variable: productid in /home/sreetej/public_html/eShopAlert.com/Websites/Cromaretail/Cromaretail.php on line 61

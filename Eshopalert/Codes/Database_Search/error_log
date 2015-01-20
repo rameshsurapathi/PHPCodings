@@ -1,0 +1,13 @@
+[26-Oct-2012 02:53:21] PHP Warning:  curl_multi_getcontent() expects parameter 1 to be resource, null given in /home/sreetej/public_html/eShopAlert.com/Database_Search/Database_Search.php on line 67
+[26-Oct-2012 02:53:21] PHP Warning:  curl_multi_remove_handle() expects parameter 2 to be resource, null given in /home/sreetej/public_html/eShopAlert.com/Database_Search/Database_Search.php on line 71
+[26-Oct-2012 02:55:08] PHP Warning:  curl_multi_getcontent() expects parameter 1 to be resource, null given in /home/sreetej/public_html/eShopAlert.com/Database_Search/Database_Search.php on line 67
+[26-Oct-2012 02:55:08] PHP Warning:  curl_multi_remove_handle() expects parameter 2 to be resource, null given in /home/sreetej/public_html/eShopAlert.com/Database_Search/Database_Search.php on line 71
+[26-Oct-2012 03:01:03] PHP Warning:  curl_multi_getcontent() expects parameter 1 to be resource, null given in /home/sreetej/public_html/eShopAlert.com/Database_Search/Database_Search.php on line 67
+[26-Oct-2012 03:01:03] PHP Warning:  curl_multi_remove_handle() expects parameter 2 to be resource, null given in /home/sreetej/public_html/eShopAlert.com/Database_Search/Database_Search.php on line 71
+[26-Oct-2012 03:04:57] PHP Warning:  curl_multi_getcontent() expects parameter 1 to be resource, null given in /home/sreetej/public_html/eShopAlert.com/Database_Search/Database_Search.php on line 67
+[26-Oct-2012 03:04:57] PHP Warning:  curl_multi_remove_handle() expects parameter 2 to be resource, null given in /home/sreetej/public_html/eShopAlert.com/Database_Search/Database_Search.php on line 71
+[27-Oct-2012 16:29:29] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/sreetej/public_html/eShopAlert.com/Database_Search/Database_Search.php on line 21
+[29-Oct-2012 03:56:32] PHP Parse error:  syntax error, unexpected '}' in /home/sreetej/public_html/eShopAlert.com/Database_Search/Database_Search.php on line 59
+[24-Nov-2012 18:56:15] PHP Parse error:  syntax error, unexpected '.' in /home/sreetej/public_html/eShopAlert.com/Database_Search/Database_Search.php on line 24
+[24-Nov-2012 19:16:58] PHP Parse error:  syntax error, unexpected '/' in /home/sreetej/public_html/eShopAlert.com/Database_Search/Database_Search.php on line 42
+[04-Jul-2013 13:43:41 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/eshopale/public_html/Database_Search/Database_Search.php on line 51

@@ -1,0 +1,2 @@
+[24-Nov-2012 03:54:05] PHP Warning:  DOMXPath::query() [<a href='domxpath.query'>domxpath.query</a>]: Invalid expression in /home/sreetej/public_html/eShopAlert.com/Websites/Landmarkonthenet/Landmarkonthenet.php on line 28
+[24-Nov-2012 03:54:05] PHP Fatal error:  Call to a member function item() on a non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Landmarkonthenet/Landmarkonthenet.php on line 28

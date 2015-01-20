@@ -1,0 +1,7 @@
+[30-Oct-2012 12:59:20] PHP Catchable fatal error:  Object of class DOMNodeList could not be converted to string in /home/sreetej/public_html/eShopAlert.com/Websites/Infibeam/Infibeam.php on line 29
+[30-Oct-2012 12:59:56] PHP Catchable fatal error:  Object of class DOMNodeList could not be converted to string in /home/sreetej/public_html/eShopAlert.com/Websites/RegularExpression/Pricergx.php on line 9
+[30-Oct-2012 13:00:36] PHP Catchable fatal error:  Object of class DOMNodeList could not be converted to string in /home/sreetej/public_html/eShopAlert.com/Websites/RegularExpression/Pricergx.php on line 9
+[24-Nov-2012 17:34:56] PHP Notice:  Undefined variable: extra_link in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 8
+[24-Nov-2012 17:34:56] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 7
+[24-Nov-2012 17:34:56] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 6
+[24-Nov-2012 17:34:58] PHP Notice:  Undefined variable: start in /home/sreetej/public_html/eShopAlert.com/Websites/Infibeam/Infibeam.php on line 70

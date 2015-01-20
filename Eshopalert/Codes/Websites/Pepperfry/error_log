@@ -1,0 +1,1 @@
+[07-Jul-2013 10:43:00 Asia/Calcutta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/eshopale/public_html/Config/Config.php on line 2

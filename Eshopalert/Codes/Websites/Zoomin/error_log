@@ -1,0 +1,4 @@
+[28-Nov-2012 09:21:37] PHP Warning:  DOMXPath::query() [<a href='domxpath.query'>domxpath.query</a>]: Invalid expression in /home/sreetej/public_html/eShopAlert.com/Websites/Zoomin/Zoomin.php on line 27
+[28-Nov-2012 09:21:37] PHP Fatal error:  Call to a member function item() on a non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Zoomin/Zoomin.php on line 27
+[28-Nov-2012 09:21:48] PHP Warning:  DOMXPath::query() [<a href='domxpath.query'>domxpath.query</a>]: Invalid expression in /home/sreetej/public_html/eShopAlert.com/Websites/Zoomin/Zoomin.php on line 27
+[28-Nov-2012 09:21:48] PHP Fatal error:  Call to a member function item() on a non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Zoomin/Zoomin.php on line 27

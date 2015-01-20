@@ -1,0 +1,15 @@
+[27-Oct-2012 15:24:34] PHP Parse error:  syntax error, unexpected '}' in /home/sreetej/public_html/eShopAlert.com/Websites/Sangeethamobiles/Sangeethamobiles.php on line 67
+[24-Nov-2012 17:34:56] PHP Notice:  Undefined variable: extra_link in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 8
+[24-Nov-2012 17:34:56] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 7
+[24-Nov-2012 17:34:56] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 6
+[24-Nov-2012 17:34:57] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Sangeethamobiles/Sangeethamobiles.php on line 28
+[24-Nov-2012 17:34:57] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Sangeethamobiles/Sangeethamobiles.php on line 29
+[24-Nov-2012 17:34:57] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Sangeethamobiles/Sangeethamobiles.php on line 30
+[24-Nov-2012 17:34:57] PHP Notice:  Undefined offset:  1 in /home/sreetej/public_html/eShopAlert.com/Websites/RegularExpression/Pricergx.php on line 6
+[24-Nov-2012 17:44:53] PHP Notice:  Undefined variable: extra_link in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 8
+[24-Nov-2012 17:44:53] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 7
+[24-Nov-2012 17:44:53] PHP Notice:  Undefined offset:  4 in /home/sreetej/public_html/eShopAlert.com/GetLink/GetLink.php on line 6
+[24-Nov-2012 17:44:54] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Sangeethamobiles/Sangeethamobiles.php on line 28
+[24-Nov-2012 17:44:54] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Sangeethamobiles/Sangeethamobiles.php on line 29
+[24-Nov-2012 17:44:54] PHP Notice:  Trying to get property of non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Sangeethamobiles/Sangeethamobiles.php on line 30
+[24-Nov-2012 17:44:54] PHP Notice:  Undefined offset:  1 in /home/sreetej/public_html/eShopAlert.com/Websites/RegularExpression/Pricergx.php on line 6

@@ -1,0 +1,2 @@
+[22-Dec-2012 17:59:33 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'eshopale_user'@'localhost' (using password: YES) in /home/eshopale/public_html/Config/Config.php on line 3
+[22-Dec-2012 18:06:56 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'eshopale_user'@'localhost' (using password: YES) in /home/eshopale/public_html/Config/Config.php on line 3

@@ -1,0 +1,2 @@
+[27-Nov-2012 20:19:26] PHP Warning:  DOMXPath::query() [<a href='domxpath.query'>domxpath.query</a>]: Invalid expression in /home/sreetej/public_html/eShopAlert.com/Websites/Bagskart/Bagskart.php on line 27
+[27-Nov-2012 20:19:26] PHP Fatal error:  Call to a member function item() on a non-object in /home/sreetej/public_html/eShopAlert.com/Websites/Bagskart/Bagskart.php on line 27
