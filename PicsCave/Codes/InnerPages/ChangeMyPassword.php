@@ -1,0 +1,127 @@
+<?php ob_start();?>
+<?php session_start();?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon" href="../Images/favicon.jpg" type="image/jpeg">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>PicsCave</title>
+<META name="description" content="PicsCave.com protects the authenticity of your photos through watermarking algorithm.">
+<META name="keywords" content="facebook,pics,facebook pics,fb,fbpics,digital watermarking,invisible watermarking,text watermarking,protect images,protect pics, picscave">
+<META content="General" name="rating">
+<META content="all" name="googlebot">
+<meta name="robots" content="index, follow">
+<meta name="author" content="info@picscave.com" />
+<meta name="owner" content="http://picscave.com" />
+<META content="Copyright � picscave.com, All Rights Reserved." name="copyright">
+<META content="http://www.picscave.com" name="picscave">
+<META content="picscave.com" name="organization">
+<META content="global" name="distribution">
+<META content="document" name="resource-type">
+<META content="public" name="security">
+<META content="7 days" name="revisit-after">
+<META content="en-us" http-equiv="Content-Language">
+<style type="text/css">
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+</style>
+<script>
+function changepassword(){
+var url = "../Scripts/UserChangePassword.php";
+var oldpassword = $("#oldpassword");
+var newpassword = $("#newpassword");
+var confirmnewpassword = $("#confirmnewpassword");
+if(oldpassword.val()==""){
+alert("Please Enter Your Old Password");
+}
+else if(newpassword.val()==""){
+alert("Please Enter Your New Password");
+}
+else if(newpassword.val().length<6){
+alert("New Password should be of Minimum 6 characters");
+}
+else if(confirmnewpassword.val()==""){
+alert("Please Re-Enter Your New Password");
+}
+else if(newpassword.val()!=confirmnewpassword.val()){
+alert("Your entered New Password and Re-entered New Password are not matching");
+}
+else{
+$("#changepasswordresponse").show();
+$.post(url,{request:"changepassword",oldpassword:oldpassword.val(),newpassword:newpassword.val(),},function(data) {																												 																																																																																																																																																												
+			//alert(data);																																																																																																																																																													
+																																																																																																																																																															if(data==1){
+	$('#changepassword').slideUp("fast");
+	$("#changepasswordresponse").html("Your Password has been Changed Successfully.").show();
+	 																																																	}
+																																																			else if(data==0){
+																																																	   $("#changepasswordresponse").html("Your Old Password is incorrect. Please Try Again.").show();
+																																																	   }	
+																																																	   																									});
+}
+}
+</script>
+</head>
+<body>
+<table border="0" align="center" width="100%" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+<tr>
+<td align="left" valign="top" background="../Images/HeaderBg.png">
+<?php include_once('AfterLoginHeader.php');?>
+</td
+></tr>
+<tr>
+<td valign="top" background="" height="500px">
+<?php include('AfterLoginNavigation.php');?>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<div id="changepasswordresponse" style="font-size:12px; color:blue; display:none;" align="center">Please Wait...<br/></div>
+
+<form action="javascript:changepassword();" method="post" name="changepassword" id="changepassword">
+<table width="604" border="0" align="center">
+  <tr><td colspan="3" style="font-size:18px;">Change My Password</td></tr>
+   <tr><td colspan="3"><br/></td></tr>
+   <tr>
+    <td><label>Old Password</label></td>
+    <td>&nbsp;</td>
+    <td><input type="password" name="oldpassword" id="oldpassword" size="30" style="height:30px;" />&nbsp;<span style="font-size:10px;"></span></td>
+  </tr>
+  <tr>
+    <td><label>New Password</label></td>
+    <td>&nbsp;</td>
+    <td><input type="password" name="newspassword" id="newpassword" size="30" style="height:30px;" />&nbsp;<span style="font-size:10px;">Minimum 6 characters</span></td>
+  </tr>
+  <tr>
+    <td><label>Re-Enter New Password</label></td>
+    <td>&nbsp;</td>
+    <td><input type="password" name="confirmnewpassword" id="confirmnewpassword" size="30" style="height:30px;" /></td>
+  </tr>
+  <tr><td colspan="3"><br/></td></tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><input type="submit" value="Submit" name="changepassword" /></td>
+  </tr>
+  </table>
+
+</form>
+
+</td>
+</tr>
+<tr>
+<td height="70" width="100%" id="footer" align="center" valign="middle" background="../Images/HeaderBg.png">
+<br/><br/>
+<?php include_once('AfterLoginFooter.php');?>
+</td>
+</tr>
+</table>
+</body>
+</html>
+<?php ob_flush();?>
